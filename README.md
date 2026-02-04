@@ -1,1 +1,1 @@
-Readme befor running tests
+Readme before running tests
