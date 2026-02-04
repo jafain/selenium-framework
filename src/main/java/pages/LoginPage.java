@@ -1,6 +1,5 @@
 package pages;
 
-import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -21,7 +20,7 @@ public class LoginPage {
 	@FindBy(xpath="//input[@value='Log in']")
 	WebElement loginButton;
 	
-	
+//below are old approach	
 //	@FindBy(id="//input[@placeholder='Username']")
 //	WebElement usernameTextbox;
 //	
